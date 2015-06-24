@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vergissmeinnicht</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="status">Status</string>
+    <string name="bluetooth">Bluetooth</string>
+    
+    <string name="viewone_introduction">
+        <![CDATA[
+        Diese App wird nun ihren Vergissmeinnicht Tracker einrichten.<br><br>
+        Bitte aktivieren Sie ihren Vergissmeinnicht Tracker <b>noch nicht</b>!<br><br>
+        Zum anfangen bitte Weiter berühren.
+        ]]>
+    </string>
+    <string name="viewone_accesibility_logo">Das Logo</string>
+    <string name="viewone_continue_key">Weiter</string>
+    
+    <string name="viewtwo_title">Bluetooth Aktivieren</string>
+    <string name="viewtwo_bt_turningon">Aktiviere Bluetooth</string>
+    <string name="viewtwo_bt_turningoff">Deaktiviere Bluetooth</string>
+    <string name="viewtwo_bt_ison">Bluetooth ist an</string>
+    <string name="viewtwo_bt_isoff">Bluetooth ist aus</string>
+    <string name="viewtwo_introduction">
+        <![CDATA[
+        Bitte aktivieren Sie nun die Bluetooth Eigenschaft ihres Handys.<br><br>
+        Das Android System wird sie hierfür nach Erlaubniss fragen. Bitte bestätigen Sie die dann erscheinende Meldung.<br><br>
+        Berühren sie zum Aktivieren von Bluetooth nun die Schaltfläche unten.
+        ]]>
+    </string>
+    <string name="viewtwo_wasalready">Bluetooth war bereits Aktiv. Es geht nun weiter zur Suche.</string>
+    <string name="viewtwo_success">Erfolgreich Aktiviert. Es geht nun weiter zur Suche.</string>
+    
+    <string name="viewthree_title">Suche</string>
+    <string name="viewthree_introduction">
+        <![CDATA[
+        Es wird nun nach ihrem Vergissmeinnicht Tracker gesucht.<br><br>
+		Sobald eine Verbindung besteht wird automatisch zur Einstellungen Ansicht weitergeleitet.<br><br>
+        Bitte aktivieren Sie nun ihren Vergissmeinnicht Tracker. Drücken Sie hierfür die Taste an der Seite oder, falls noch nicht geschehen, setzen Sie die Batterie ein. <br><br>
+        Die LED am Vergissmeinnicht Tracker sollte Blinken, wird aber erlöschen sobald eine Verbindung aufgebaut wurde.<br><br>
+        Die Liste unten zeigt alle Bluetooth Smart Geräte in ihrer Umgebung.
+        ]]>
+    </string>
+    <string name="viewthree_success">Tracker Gefunden</string>
+    
+    <string name="viewconfig_title">Einstellungen</string>
+        <string name="viewconfig_introduction">
+        <![CDATA[
+        Dies sind die Einstellungen für den Vergissmeinnicht Tracker.<br><br>
+		Sie können den Ausgabeort der Warnung bestimmen.<br><br> 
+		Ebenfalls können Sie auf Tastendruck den Pfeiton des Trackers oder den Feldstärkenverlauf aktivieren. Mit derer Hilfe können Sie den Vergissmeinnicht Tracker wiederfinden.
+        ]]>
+    </string>
+    <string name="viewconfig_radiobutonstitle">Ausgabe der Warnmeldungen</string>
+    <string name="viewconfig_r1txt">Nur Tracker</string>
+    <string name="viewconfig_r2txt">Beide</string>
+    <string name="viewconfig_r3txt">Nur Handy</string>
+    <string name="viewconfig_graph">Signalstärke Zeigen</string>
+    <string name="viewconfig_status">Aktueller Status</string>
+    <string name="viewconfig_beepbutton">Pfeifton</string>
+    
+    <string name="viewalertuser_title_search">Suche Handy</string>
+    <string name="viewalertuser_introduction_search">
+        <![CDATA[
+        Sie haben am Vergissmeinnicht Tracker die Suchtaste gedrückt. Hiermit wird am Handy ein Alarm ausgelöst um es finden zu können.<br><br>
+        Bitte drücken sie die Schaltfläche unten um den Klingelton zu beenden. <br><br>
+        Ein Wechsel zum vorherigen Bildschirm erfolgt sofort.
+        ]]>
+    </string>
+    <string name="viewalertuser_title_linkloss">Verbindung Unterbrochen</string>
+    <string name="viewalertuser_introduction_linkloss">
+        <![CDATA[
+        Die Verbindung zum Vergissmeinnicht Tracker wurde Unterbrochen. Eventuell haben Sie etwas verloren ? <br><br>
+        Bitte drücken sie die Schaltfläche unten um den Klingelton zu beenden. <br><br>
+        Ein Wechsel zum vorherigen Bildschirm erfolgt erst bei Wiederaufnahme der Verbindung, wenn der Vergissmeinnicht Tracker wieder in Reichweite ist.
+        ]]>
+    </string>
+    <string name="viewalertuser_title_toofar">Zu Weit</string>
+    <string name="viewalertuser_introduction_toofar">
+        <![CDATA[
+        Der Vergissmeinnicht Tracker wurde zu weit entfernt. Die Verbindung ist zwar noch nicht unterbrochen, jedoch steht dies kurz bevor. <br><br>
+        Bitte Nähern sie den Vergissmeinnicht Tracker an das Handy und drücken sie die Schaltfläche unten um den Klingelton zu beenden. <br><br>
+        Ein Wechsel zum vorherigen Bildschirm erfolgt sofort.
+        ]]>
+    </string>
+    <string name="viewalertuser_button_mute">Klingelton beenden</string>   
+
+</resources>
